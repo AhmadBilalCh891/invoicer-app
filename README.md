@@ -161,5 +161,5 @@ to keep improving the project.
 
 ## Author
 
-- Linkedin: [@panshak](https://www.linkedin.com/in/ahmad-bilal-920637165/)
+- Linkedin: [@ahmadbilal](https://www.linkedin.com/in/ahmad-bilal-920637165/)
 - Email: [@ahmadbilal](mailto:ahmadbilalch891@gmail.com)
