@@ -161,11 +161,5 @@ to keep improving the project.
 
 ## Author
 
-- Twitter: [@panshak_](https://twitter.com/panshak_)
-- Github: [@panshak](https://github.com/panshak)
-- Linkedin: [@panshak](https://www.linkedin.com/in/panshak/)
-- Email: [@ipanshak](mailto:ipanshak@gmail.com)
-
-## License
-
-- This project is [MIT](https://github.com/Panshak/arcinvoice/blob/master/LICENSE.md) licensed.# invoicer-app
+- Linkedin: [@panshak](https://www.linkedin.com/in/ahmad-bilal-920637165/)
+- Email: [@ahmadbilal](mailto:ahmadbilalch891@gmail.com)
